@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Zephyr\Desktop\Project2\main.cpp(101,22): error C2440: =: невозможно преобразовать "const char [8]" в "LPCWSTR"
+      C:\Users\Zephyr\Desktop\Project2\main.cpp(101,22):
+      Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+  
